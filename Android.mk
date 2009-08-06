@@ -9,4 +9,4 @@ LOCAL_SRC_FILES :=  \
 
 LOCAL_MODULE := libaes
 
-include $(BUILD_SHARED_LIBRARY)
+# include $(BUILD_SHARED_LIBRARY)
